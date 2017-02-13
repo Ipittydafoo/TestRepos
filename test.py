@@ -1,1 +1,2 @@
-from local1
+a = from local1
+# more from local 2
